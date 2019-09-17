@@ -1,5 +1,5 @@
 {
-  "name": "swipe-js-iso",
+  "name": "swipe-js-iso-fork",
   "version": "2.1.6",
   "main": "./swipe.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voronianski/swipe-js-iso.git"
+    "url": "git+https://github.com/voronianski/swipe-js-iso-fork.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/voronianski/swipe-js-iso#readme",
+  "homepage": "https://github.com/voronianski/swipe-js-iso-fork#readme",
   "dependencies": {},
   "prettier": {
     "singleQuote": true

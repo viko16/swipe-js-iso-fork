@@ -1,15 +1,11 @@
-# Universal (a.k.a isomorphic) Swipe.js
+# Just another fork of swipe-js-iso
 
-[![npm version](http://badge.fury.io/js/swipe-js-iso.svg)](http://badge.fury.io/js/swipe-js-iso)
-[![Download Count](http://img.shields.io/npm/dm/swipe-js-iso.svg?style=flat)](http://www.npmjs.com/package/swipe-js-iso)
-<a href="https://www.buymeacoffee.com/voronianski" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-> Fork of original [Swipe](https://github.com/thebird/Swipe) in order to be published to NPM (has no deps) and being compatible with universal apps.
+[![npm version](http://badge.fury.io/js/swipe-js-iso-fork.svg)](http://badge.fury.io/js/swipe-js-iso-fork)
 
 # Install
 
 ```bash
-npm install swipe-js-iso --save
+npm install swipe-js-iso-fork --save
 ```
 
 **✅ PRO HINT:** Use [ReactSwipe](https://github.com/jed/react-swipe) component
