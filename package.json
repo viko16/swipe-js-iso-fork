@@ -1,6 +1,6 @@
 {
   "name": "swipe-js-iso-fork",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "main": "./swipe.js",
   "scripts": {
     "build": "uglifyjs -m reserved=[\"Swipe\"] -o ./swipe.min.js ./swipe.js ",
